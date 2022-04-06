@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meisa233
-- 👀 I’m interested in AI.
+- 👀 I’m interested in AI and video encoding & decoding.
 - 🌱 I’m currently learning transcoding with ffmpeg.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
